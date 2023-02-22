@@ -6,6 +6,5 @@ npm i --save-dev @types/jest
 npx jest --init
 ```
 
-- Go to `jest.config.ts` file and enable `testEnvironment` and `preset`;
-- Replace `testEnvironment` value "jest-environment-node"
+- Go to `jest.config.ts` file and enable `preset`;
 - Replace `preset` value "ts-jest"
